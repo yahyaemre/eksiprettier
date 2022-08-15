@@ -4,7 +4,8 @@ Ekşi Sözlük için Entry No girerek Entry'i resimli hale getirip paylaşmanız
 Nasıl Kullanılır?
 > Önce Ekşi Sözlükten herhangi bir başlıktan istediğiniz entry'i seçin ve no'sunu kopyalayın. 
 > Ardından eksiprettier.vercel.app adresine gidin ve entry no'yu buraya yapıştırıp enter'a basın. İşte bu kadar.
-
+veya...
+[Videolu Anlatım](https://t.me/percentblog/11)
 ## Bu araç, hiç bir kâr amacı güdülmeksizin tamami ile eğlence ve ihtiyaç amaçlı geliştirilmiştir. Herhangi bir durumda lütfen [telegramdan](https://t.me/bpercent) iletişim kurun. 
 
 
