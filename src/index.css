@@ -1,0 +1,44 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  * {
+    font-family: 'Source Sans Pro', sans-serif;
+  }
+#header {
+  display: inline-block;
+  margin-top: 20px;
+  font-weight: bold;
+  color: white;
+  font-size: 35px;  
+}
+
+body {
+  background: #2D2D2D;
+}
+
+#search {
+  transition: .7s;
+}
+
+#prettied {
+  
+  color: white;
+
+}
+
+
+
+}
+
+
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
