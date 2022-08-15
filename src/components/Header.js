@@ -55,7 +55,7 @@ function Header() {
           onKeyPress={searchQuery}
           value={query}
         />
-        <a href="https://github.com/rashtion/eksiprettier" className="block text-center underline md:mt-[-1px]">kaynak kodu</a>
+        <a href="https://github.com/emrebakkal/eksiprettier" className="block text-center underline md:mt-[-1px]">kaynak kodu</a>
       </div>
 
       <PrettiedEntry
