@@ -8,4 +8,4 @@ Nasıl Kullanılır?
 ## Bu araç, hiç bir kâr amacı güdülmeksizin tamami ile eğlence ve ihtiyaç amaçlı geliştirilmiştir. Herhangi bir durumda lütfen [telegramdan](https://t.me/bpercent) iletişim kurun. 
 
 
-- Resmî olmayan Ekşi Sözlük API için [@coluck] (https://www.github.com/coluck) 'a teşekkürler.
+- Resmî olmayan Ekşi Sözlük API için [@coluck](https://www.github.com/coluck) 'a teşekkürler.
