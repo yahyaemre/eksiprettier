@@ -8,7 +8,7 @@ function Header() {
   const [query, setQuery] = useState("");
   const [loading, setLoading] = useState(false);
   const [results, setResults] = useState([]);
-  const [tag, setTag] = useState([]);
+
 
   const searchQuery = async (e) => {
     if (e.key === "Enter") {
@@ -18,10 +18,6 @@ function Header() {
         `https://eksisozluk-api.herokuapp.com/api/entry/${newQuery}`
       );
       setResults(res.data);
-      const tags = await axios.get(
-        `https://eksisozluk-api.herokuapp.com/api/baslik/${res.data["title"]}`
-      );
-      setTag(tags.data);
       setLoading(false);
       setQuery("");
     }
