@@ -10,3 +10,4 @@ veya...
 
 
 - Resmî olmayan Ekşi Sözlük API için [@coluck](https://www.github.com/coluck) 'a teşekkürler.
+- ReactJS ve TailwindCSS kullanılarak geliştirildi.
