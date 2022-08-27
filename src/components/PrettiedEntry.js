@@ -19,14 +19,14 @@ function PrettiedEntry({ results, setResults }) {
         <div
         ref={ref}
           id="prettied"
-          className="border-2 rounded-xl bg-[#6ca43d]  mx-auto w-[380px] h-[340px] overflow-hidden items-center justify-center  text-white font-normal p-[10px]"
+          className="border-2 rounded-xl bg-[#6ca43d]  mx-auto w-[380px] overflow-hidden items-center justify-center  text-white font-normal p-[10px]"
         >
-          <p className="block mt-9 justify-center items-center">
+          <p className="block mt-1 justify-center items-center">
             <span className="font-bold text-xl">{results.title}</span>
             <br />
             <span className="text-sm">{results.date}</span>
             {results.body
-              ? results.body.replace(/<\/?[^>]+(>|$)/g, "").slice(0, 340)
+              ? results.body.replace(/<\/?[^>]+(>|$)/g, "")
               : null}
 
             <h2
